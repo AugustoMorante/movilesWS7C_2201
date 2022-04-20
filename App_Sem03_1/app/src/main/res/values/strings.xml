@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Sem03_1</string>
+    <string name="name">Mi primera app!!</string>
+    <string name="textview">Mi primer proyecto!!</string>
+    <string name="mail">Ingrese nickname</string>
+    <string name="send">enviar</string>
+</resources>

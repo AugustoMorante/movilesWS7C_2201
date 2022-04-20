@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Sem04_1</string>
+    <string name="afirmative">SI</string>
+    <string name="negative">NO</string>
+    <string name="question">¿Es Lima la capital del Perú?</string>
+    <string name="btNextText">Siguiente</string>
+</resources>
