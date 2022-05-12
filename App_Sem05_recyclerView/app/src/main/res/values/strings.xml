@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Sem05_recyclerView</string>
+    <string name="textName">Nombre</string>
+    <string name="textNumber">999999999</string>
+</resources>

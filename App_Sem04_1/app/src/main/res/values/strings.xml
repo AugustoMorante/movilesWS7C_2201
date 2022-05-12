@@ -3,5 +3,8 @@
     <string name="afirmative">SI</string>
     <string name="negative">NO</string>
     <string name="question">¿Es Lima la capital del Perú?</string>
-    <string name="btNextText">Siguiente</string>
+    <string name="btNextText">Siguiente >></string>
+    <string name="tvScore">Puntaje</string>
+    <string name="tvLives">Vidas</string>
+    <string name="tvQuestionNumber">-/-</string>
 </resources>
